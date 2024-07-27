@@ -1,4 +1,4 @@
-# Driver's License Management System
+# Driving License Management System
 
 The Driving License Management System is a desktop application designed to streamline the process of issuing and managing driver's licenses. It provides essential services for both applicants (drivers) and administrators. The system ensures road safety by regulating the issuance, renewal, and replacement of licenses.
 
